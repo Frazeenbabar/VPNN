@@ -1,3 +1,3 @@
 <?php
-include('./start.html');
+include('./vpnn.html');
 ?>
